@@ -8,7 +8,7 @@ Meta Description: Record meetings without a bot joining your call. Notta Desktop
 Canonical: https://notta.ai/en/features/notta-desktop
 Keyword coverage: bot-free meeting recorder (P0), bot joining (P0), bot-free AI notetaker (P0), locally (P1)
 
-HERO
+098765e4589p[oiugfop[iuyt90-]]
 Social proof line: Trusted by 16M+ users worldwide · 5,000+ enterprise customers
 Badge: Beta
 Headline: [v3 EDIT — 植入精确匹配关键词 "bot-free meeting recorder"] The bot-free meeting recorder for Mac and Windows.
